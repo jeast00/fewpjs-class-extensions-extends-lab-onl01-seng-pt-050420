@@ -24,6 +24,6 @@ class Triangle extends Polygon {
     let side2 = this.sides[1];
     let side3 = this.sides[2];
     
-    return (())
+    return ((side1 + side2 > side3) && ())
   }
 }
