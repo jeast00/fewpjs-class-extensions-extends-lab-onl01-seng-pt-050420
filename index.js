@@ -20,6 +20,6 @@ class Polygon {
 
 class Triangle extends Polygon {
   get isValid() {
-    
+    let side1 = 
   }
 }
